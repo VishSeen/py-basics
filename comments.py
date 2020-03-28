@@ -1,6 +1,21 @@
 # Hello Comments #
 # ------------------- #
-# this is a comment
-# comments comes after the hash (#) symbol 
-# and they are one lined comments
-# use them to make your code easy to read
+
+# this line is a comment.
+# comments comes after the hash (#) symbol.
+# they are one lined comments.
+# use them to describe your codes.
+# comments are used for programmers to 
+# better undertand a program / code.
+
+
+# To comment a code
+# first: write #
+# sec : click spacebar
+# third : write your message
+
+
+
+# ----------------------- #
+# UP NEXT : docstrings.py #
+# ----------------------- #

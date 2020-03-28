@@ -1,18 +1,29 @@
 # Strings variable
 # ----------------- #
+
 # strings types are basically texts.
 # which means that it only holds texts.
-# we use " or ' (single or double quotes)
-# in between these we put the text we want
-# whenever you see a value inside "" or ''
-# know that it is a text (string)
+# we use " or ' (single or double quotes) to show that
+# we are creating a string value.
+# in between these we put the text we want.
 
+# To create a string variable
+# first: give it a name
+# sec : use the = (equal sign) to assign a value
+# third : add "
+# fourth : write your text
+# fifth : close "
+# ---------------------------- #
+# a_string = "your value"      #
+# ---------------------------- #
 a_string = "Hello Python"
 b_string = "Shane"
+
 
 # if you want to use comma as text
 # use double quotes as variable assignement
 using_comma_as_text = "it's a good day"
+
 
 # if you want to use quotes as text
 # use single quotes as variable assignement
@@ -83,3 +94,9 @@ print(" ")
 # you can always goto the documentation web of python to 
 # know what functions are available for you
 # web: https://docs.python.org/3/library/stdtypes.html#string-methods
+
+
+
+# --------------------- #
+# UP NEXT : integers.py #
+# --------------------- #
