@@ -3,10 +3,9 @@ Hey there,
 Below is the learning path of this tutorial. Make sure to follow as described. You can also see at the end of each scripts there has an UP NEXT : which shows the next script to learn. 
 
 Download a text editor to run the codes. Sublime text editor will be best.
-With sublime, when click [ctrl] + b, you will see the output of the programs.
+With sublime, when clicked [ctrl] + b, you will see the output of the programs.
 
-Make sure that you follow the code from top to bottom. Python execute codes in this format too. Which means the code is run from top to bottom.
-
+Make sure that you follow the code from top to bottom as Python executes codes in this format. 
 
 Table of Contents:
 1. comments.py
