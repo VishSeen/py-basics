@@ -1,7 +1,7 @@
 # Doctrings  #
 # ------------------- #
 
-# docstrings is short fo Documenation string.
+# docstrings is short for Documentation string.
 # it is a string that comes first in a function,
 # class or method definition. with docstring you should
 # write what certain blocks of code(function/methods) does.
